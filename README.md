@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Small Project.
 - 🌱 I’m currently learning C.
 - 👯 I’m looking to collaborate on Big Project.
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with anyone.
+- 💬 Ask me about C programming.
+- 📫 How to reach me: prateekkoirala77@gmail.com
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I love riding bikes.
 
